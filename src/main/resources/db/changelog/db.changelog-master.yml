@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: classpath:/db/changelog/changes/20240811160700_create_blacklist_table.sql
